@@ -36,3 +36,10 @@ mvn clean package
 ### Run Application:
 ```bash
 java -cp target/toy-robot-coding-1.0-SNAPSHOT.jar com.thitiwut.toyrobotcoding.ToyRobotApplication
+```
+
+---
+
+## Test Data
+
+Test Data have been provided in `src/main/resource/testData.txt`
