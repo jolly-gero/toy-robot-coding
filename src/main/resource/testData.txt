@@ -1,0 +1,34 @@
+Simple move :
+
+PLACE 0,0,NORTH
+MOVE
+REPORT
+
+--------------------------------------------------------------
+
+Rotation and move :
+
+PLACE 3,3,NORTH
+MOVE
+LEFT
+MOVE
+RIGHT
+REPORT
+
+--------------------------------------------------------------
+
+Reposition :
+
+PLACE 3,3,WEST
+MOVE
+LEFT
+PLACE 0,0,NORTH
+REPORT
+
+--------------------------------------------------------------
+
+Invalid Place
+
+PLACE -1,5,NORTH
+
+--------------------------------------------------------------
